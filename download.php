@@ -23,5 +23,4 @@
  $img = '/my/folder/flower.gif'
  file_put_contents($img, file_get_contents($url));
 */
- 
 ?>
